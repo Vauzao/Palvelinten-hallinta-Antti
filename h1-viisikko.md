@@ -1,5 +1,6 @@
-h1 viisikko 
-x)
+# H! Viisikko 
+x) ## Tiivistys
+
 Karvinen 2025: Install Salt on Debian 13 Trixie
 - Lisätään hakemisto apt varten, jotta salt voidaan asentaa
 - Ladataan salt
@@ -18,10 +19,11 @@ Karvinen 2006: Raportin kirjoittaminen
 - Lähteisiin viittaaminen on tärkeää raporteissa
 - Helppolukuisuus on tärkeää ja tekstin täsmällisyys
 
-a)
+## a) Debianin asennus
+
 -Asensin debianin ISO tiedoston
 
-b) Saltin asennus
+## b) Saltin asennus
 
 - Latasin wgetin komennoilla sudo apt-get update ja sudo apt_get install wget.
 - Tein hakemiston saltrepo/ komennolla mkdir saltrepo/ ja siirryin sinne komennolla cd saltrepo/
@@ -33,7 +35,7 @@ b) Saltin asennus
 - lopuksi ladataan salt-minion ja salt-master
 - Testasin, että Salt toimii oikein. 
 
-c) Viisi tärkeintä tilafunktiota
+## c) Viisi tärkeintä tilafunktiota
 
 - pkg: Tällä voi hallita kaikkia ohjelmia 
 - file: Luo tiedostoja ja niitä voi myös muokata haluamaksi
@@ -42,7 +44,7 @@ c) Viisi tärkeintä tilafunktiota
 - cmd: Suorittaa komentoja 
 - Kaikki nämä vaikuttavat todella tärkeiltä, jotta salttia voi käyttää tehokkaasti 
 
-d) Esimerkki idempotenssista 
+## d) Esimerkki idempotenssista 
 
  - Jos pkg.installed tree ensimmäisellä kerralla salt tarkistaa onko tree asennettuna, jos ei ole se lataa sen.
  - Uudelleen sama tehtäessä se tarkistaa saman mutta state kertoo, että se on jo asennettuna, eikä muutoksia tarvitse tehdä
