@@ -1,5 +1,5 @@
 # H! Viisikko 
-x) ## Tiivistys
+## x) Tiivistys
 
 Karvinen 2025: Install Salt on Debian 13 Trixie
 - Lisätään hakemisto apt varten, jotta salt voidaan asentaa
