@@ -21,7 +21,8 @@ Karvinen 2006: Raportin kirjoittaminen
 a)
 -Asensin debianin ISO tiedoston
 
-b) 
+b) Saltin asennus
+
 - Latasin wgetin komennoilla sudo apt-get update ja sudo apt_get install wget.
 - Tein hakemiston saltrepo/ komennolla mkdir saltrepo/ ja siirryin sinne komennolla cd saltrepo/
 - Latasin tiedostot Saltin virallisten ohjeiden mukaan. 
@@ -32,7 +33,8 @@ b)
 - lopuksi ladataan salt-minion ja salt-master
 - Testasin, että Salt toimii oikein. 
 
-c) 
+c) Viisi tärkeintä tilafunktiota
+
 - pkg: Tällä voi hallita kaikkia ohjelmia 
 - file: Luo tiedostoja ja niitä voi myös muokata haluamaksi
 - service: Palveluiden hallintaa esim. voi käynnistää ohjelmia tai restartata
@@ -40,7 +42,8 @@ c)
 - cmd: Suorittaa komentoja 
 - Kaikki nämä vaikuttavat todella tärkeiltä, jotta salttia voi käyttää tehokkaasti 
 
-d) 
+d) Esimerkki idempotenssista 
+
  - Jos pkg.installed tree ensimmäisellä kerralla salt tarkistaa onko tree asennettuna, jos ei ole se lataa sen.
  - Uudelleen sama tehtäessä se tarkistaa saman mutta state kertoo, että se on jo asennettuna, eikä muutoksia tarvitse tehdä
  - Komento antaa eri tuloksen riippuen, siitä onko se jo esim. asennettu/poistettu
