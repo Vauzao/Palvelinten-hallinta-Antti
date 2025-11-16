@@ -15,4 +15,8 @@
 ## SALT
 - ![alt text](debian7.jpg)
 - ![alt text](debian8.jpg)
+## Saltille oman koneen asetukset
+- ![alt text](debian9.jpg)
+- ![alt text](debian10.jpg)
+  
   
