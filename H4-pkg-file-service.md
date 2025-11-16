@@ -18,5 +18,7 @@
 ## Saltille oman koneen asetukset
 - ![alt text](debian9.jpg)
 - ![alt text](debian10.jpg)
-  
+## Saltin ajo
+- ![alt text](debian11.jpg)
+- ![alt text](debian12.jpg)
   
