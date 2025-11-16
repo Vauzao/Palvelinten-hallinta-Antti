@@ -21,4 +21,8 @@
 ## Saltin ajo
 - ![alt text](debian11.jpg)
 - ![alt text](debian12.jpg)
-  
+## Korjaa itsensä
+- ![alt text](debian13.jpg)
+- ![alt text](debian14.jpg)
+- ![alt text](debian15.jpg)
+
