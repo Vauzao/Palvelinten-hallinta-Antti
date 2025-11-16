@@ -25,4 +25,5 @@
 - ![alt text](debian13.jpg)
 - ![alt text](debian14.jpg)
 - ![alt text](debian15.jpg)
+  ## Palautan tämän nyt ja jatkan B,C,D ja E tehtäviä omalla ajalla myöhemmin
 
