@@ -7,4 +7,6 @@
 ![alt text](debian1.jpg)
 - Tajusin, että jostain syystä sshd ei ole asennettuna joten asensin sen.
 -   ![alt text](debian2.jpg)
+-    ![alt text](debian3.jpg)
+-     ![alt text](debian4.jpg)
   
