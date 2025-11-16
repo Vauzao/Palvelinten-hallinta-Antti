@@ -25,7 +25,7 @@
 - ![alt text](debian13.jpg)
 - ![alt text](debian14.jpg)
 - ![alt text](debian15.jpg)
-  ## Palautan tämän nyt ja jatkan B,C,D ja E tehtävien harjoittelua omalla ajalla myöhemmin
+  ## Palautan tämän nyt ja jatkan B,C,D ja E tehtävien harjoittelua myöhemmin
   ## Lähteet:
   https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh
 
