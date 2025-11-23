@@ -23,4 +23,4 @@ Chacon and Straub 2014:
 - ![alt text](h5c2.jpg)
 - ![alt text](h5c3.jpg)
 - ![alt text](h5c4.jpg)
-- ![alt text](h5c5.jpg)
+
