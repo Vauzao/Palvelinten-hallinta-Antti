@@ -11,3 +11,9 @@ Chacon and Straub 2014:
 - ![alt text](h56.jpg)
   
 ## b)
+- ![alt text](h57.jpg)
+- ![alt text](h58.jpg)
+- ![alt text](h59.jpg)
+- ![alt text](h510.jpg)
+- ![alt text](h511.jpg)
+- ![alt text](h512.jpg)
