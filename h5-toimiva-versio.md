@@ -1,7 +1,18 @@
 # H5 Toimiva versio
 ## x) Lue ja tiivistä
-Chacon and Straub 2014:
-- 
+## Chacon and Straub 2014: 
+- Suurin osa git operaatioista tarvitsee vain paikallisia tiedostoja ja resursseja
+- Et voi muokata mitään ilman, että git tietää siitä eli asioita on vaikea hukata/ menettää
+## Git komennot:
+- Git add. lisää muutokset gittiin, mutta ei tallenna niitä pysyvästi
+- Commit tallentaa muutokset pysyvästi
+- && tarkoittaa tässä tapauksessa, että commit tehdään vaan jos "add ." onnistui.
+- git pull hakee muutokset etävarastosta ja liittää paikalliseen
+- Päinvastoin kuin pull eli lähettää paikalliset etä varastoon
+- Lähteet: hacon & Straub, Pro Git, luku 2.2, 3.1 ja 3.2
+## Varaston terokarvinen/suolax/ historia:
+- Löytyy esim.saltille hello world
+- ja suosikki ohjelmien lataus
 ## a) Online
 - aluksi mkdir ja cd tehtävää varten
 - ![Mkdir ja cd tehtävää varten](h51.jpg)
@@ -52,3 +63,6 @@ Chacon and Straub 2014:
 - ja tarkastelin vielä lisää...
 - ![alt text](h5d3.jpg)
 ## e) Kesken :(
+## Lähteet:
+- https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+- https://github.com/terokarvinen/suolax/commit/a6c11bfecd8e7a2a40b2c53d08357a1e6633ad9f
