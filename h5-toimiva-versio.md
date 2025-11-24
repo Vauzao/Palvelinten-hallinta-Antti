@@ -3,9 +3,14 @@
 Chacon and Straub 2014:
 - 
 ## a) Online
+- aluksi mkdir ja cd tehtävää varten
 - ![Mkdir ja cd tehtävää varten](h51.jpg)
+- Se aloitetaan komennolla: git init
 - ![alt text](h52.jpg)
+- Tässä välissä tehdään tekstitiedosto tehtävää varten ja lisätään sinne tekstiä
+- sitten Lisätään gnu gpl 3 lisenssi:
 - ![alt text](h53.jpg)
+- Tiedoston lisäys git add ja commit:
 - ![alt text](h54.jpg)
 - ![alt text](h55.jpg)
 - ![alt text](h56.jpg)
