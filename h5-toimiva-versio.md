@@ -3,7 +3,7 @@
 Chacon and Straub 2014:
 - 
 ## a) Online
-- ![alt text](h51.jpg)
+- ![Mkdir ja cd tehtävää varten](h51.jpg)
 - ![alt text](h52.jpg)
 - ![alt text](h53.jpg)
 - ![alt text](h54.jpg)
