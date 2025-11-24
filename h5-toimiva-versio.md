@@ -51,3 +51,4 @@ Chacon and Straub 2014:
 - ![alt text](h5d2.jpg)
 - ja tarkastelin vielä lisää...
 - ![alt text](h5d3.jpg)
+## e) Kesken :(
