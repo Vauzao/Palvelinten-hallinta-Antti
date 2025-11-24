@@ -13,10 +13,11 @@ Chacon and Straub 2014:
 - Tiedoston lisäys git add ja commit:
 - ![alt text](h54.jpg)
 - Tässä välissä sähköposti ja käyttäjänimi lisäys komennoilla: git config --global user.email ja git config --global user.name
-- ![alt text](h55.jpg)
-- Sitten tein githubiin uuden repon tehtävälle
+- - Sitten tein githubiin uuden repon tehtävälle
 - Kopioin sieltä: git remote add origin"", git branch -M main ja git push -u origin main
 - Ja hain tokenin jotta pystyin syöttämään sen debianiin
+- ![alt text](h55.jpg)
+- Tässä näkyy lopputulos kaikki git toimii
 - ![alt text](h56.jpg)
   
 ## b) Dolly
