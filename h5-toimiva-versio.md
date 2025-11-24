@@ -21,20 +21,33 @@ Chacon and Straub 2014:
 - ![alt text](h56.jpg)
   
 ## b) Dolly
+- kloonasin gitin
 - ![alt text](h57.jpg)
+- Muokkasin tekstiedostoa
 - ![alt text](h58.jpg)
+- Lisäsin ne gittiin ja committasin
 - ![alt text](h59.jpg)
+- Tarkistin logista muutoksen
 - ![alt text](h510.jpg)
+- push palvelimelle
 - ![alt text](h511.jpg)
+- Muutokset githubissa
 - ![alt text](h512.jpg)
 
 ## c) Doh!
+- Muokkasin aluksi tekstitiedostoon turhaa tekstiä
 - ![alt text](h5c1.jpg)
+- Tarkistin statuksesta että oli "modified"
 - ![alt text](h5c2.jpg)
+- Ja tuhosin muutokset 
 - ![alt text](h5c3.jpg)
+- statuksesta tarkistus
 - ![alt text](h5c4.jpg)
 
 ## d) Tukki
+- Tarkistin lokin, siinä näkyy esim. commitit ja author 
 - ![alt text](h5d1.jpg)
+- Käytin lisäksi vielä: git log --patch, lokin yksityiskohtaiseen tarkastukseen
 - ![alt text](h5d2.jpg)
+- ja tarkastelin vielä lisää...
 - ![alt text](h5d3.jpg)
